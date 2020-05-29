@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/*
+   The main activity
+ */
+
 public class MainActivity extends AppCompatActivity {
     private Button button, button2, button3, button4;
 
